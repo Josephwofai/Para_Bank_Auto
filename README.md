@@ -1,7 +1,6 @@
-# Para_Bank_Auto
+# SAUCE_DEMO_AUTOMATION_TEST
 Run_Selenium
-Login Page
-Transfer_Money
-Retrieve_Money
-Check_Balance 
-API_Call
+Lunch the website: https://www.saucedemo.com
+Login
+Buy 6 products from the website
+Logout
