@@ -1,5 +1,8 @@
 # SAUCE_DEMO_AUTOMATION
 Run_Selenium
+Chrome
+Edge
+Firefox
 
 
 
